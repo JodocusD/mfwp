@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Test on Pikkabird Data Solutions</title>
+    <link>/tags/r-test/</link>
+    <description>Recent content in R Test on Pikkabird Data Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Playing around</title>
+      <link>/post/playing-around/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/playing-around/</guid>
+      <description>NMP data replication ## ── Attaching packages ───────────────────────── tidyverse 1.2.1 ── ## ✔ ggplot2 2.2.1 ✔ purrr 0.2.4 ## ✔ tibble 1.3.4 ✔ dplyr 0.7.4 ## ✔ tidyr 0.7.2 ✔ stringr 1.2.0 ## ✔ readr 1.1.1 ✔ forcats 0.2.0 ## ── Conflicts ──────────────────────────── tidyverse_conflicts() ── ## ✖ dplyr::filter() masks stats::filter() ## ✖ dplyr::lag() masks stats::lag() En nu gekanteld
+En dan hier de conclusie
+ </description>
+    </item>
+    
+  </channel>
+</rss>
