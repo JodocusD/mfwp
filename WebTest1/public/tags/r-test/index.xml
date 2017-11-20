@@ -18,7 +18,8 @@
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/playing-around/</guid>
-      <description>NMP data replication ## ── Attaching packages ───────────────────────── tidyverse 1.2.1 ── ## ✔ ggplot2 2.2.1 ✔ purrr 0.2.4 ## ✔ tibble 1.3.4 ✔ dplyr 0.7.4 ## ✔ tidyr 0.7.2 ✔ stringr 1.2.0 ## ✔ readr 1.1.1 ✔ forcats 0.2.0 ## ── Conflicts ──────────────────────────── tidyverse_conflicts() ── ## ✖ dplyr::filter() masks stats::filter() ## ✖ dplyr::lag() masks stats::lag() En nu gekanteld
+      <description>NMP data replication Taken data from a random table in NPM document in pdf format. Plotting in 2 different formats.
+ First graph: Violin plots!  Plot 2: Piramid plot En nu gekanteld
 En dan hier de conclusie
  </description>
     </item>

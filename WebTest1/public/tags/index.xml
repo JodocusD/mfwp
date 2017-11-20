@@ -40,11 +40,20 @@
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Plots</title>
+      <link>/tags/plots/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>/tags/plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     

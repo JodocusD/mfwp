@@ -15,13 +15,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Shown in the home page
-  subtitle = "DataExamples"
-  brand = "PBDS"
+  subtitle = "Data Exploration"
+  brand = "PikkaBird"
   googleAnalytics = ""
   disqus = ""
   # CSS name for highlight.js
   highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  dateFormat = "02 Jan 2006"
 
 [menu]
   # Shown in the side menu.
@@ -52,9 +52,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
   github = "JodocusD"
-  stackoverflow = "*"
-  linkedin = "*"
+  stackoverflow = "JodocusD"
+  linkedin = "joost-donkers-645b9b62"

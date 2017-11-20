@@ -11,9 +11,17 @@ tags:
 
 ## NMP data replication
 
+Taken data from a random table in NPM document in pdf format.
+Plotting in 2 different formats. 
+
+# First graph: Violin plots!
+
+```{r, include=FALSE}
+library(tidyverse)
+```
+
 
 ```{r, echo= FALSE, warning=FALSE, }
-library(tidyverse)
 a <- (unlist(str_split(c("Al-Hasakeh Aleppo Ar-Raqqa As-Sweida Damascus Dar'a Deir-ez-Zor Hama Homs Idleb Lattakia Quneitra Rural_Damascus Tartous"), " ")))
   
 age <- unlist(str_split( c("0-4 5-9 10-15 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65+ Total"), " "))
@@ -36,7 +44,7 @@ d %>% ggplot(aes(fct_inorder(age), Pct))  +
 
 ```
 
-
+# Plot 2: Piramid plot
 En nu gekanteld
 
 ```{r, echo= FALSE, warning=FALSE, }
