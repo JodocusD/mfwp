@@ -5,7 +5,7 @@ sidemenu = "true"
 description = "And about me and my site"
 +++
 
-## Welcome to my webstie
+## Welcome to my website
 
 My name is Joost Donkers and I started this page to explore managing website site content directly from the R programming language. 
 
