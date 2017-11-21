@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Test on Pikkabird Data Solutions</title>
-    <link>http://www.pikkabird.co/tags/r-test/</link>
+    <link>/tags/r-test/</link>
     <description>Recent content in R Test on Pikkabird Data Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.pikkabird.co/tags/r-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/r-test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Playing around</title>
-      <link>http://www.pikkabird.co/post/playing-around/</link>
+      <link>/post/playing-around/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/post/playing-around/</guid>
+      <guid>/post/playing-around/</guid>
       <description>NMP data replication Taken data from a random table in NPM document in pdf format. Plotting in 2 different formats.
  First graph: Violin plots!  Plot 2: Piramid plot En nu gekanteld
 En dan hier de conclusie

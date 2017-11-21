@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pikkabird Data Solutions</title>
-    <link>http://www.pikkabird.co/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Pikkabird Data Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.pikkabird.co/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Funding</title>
-      <link>http://www.pikkabird.co/tags/funding/</link>
+      <link>/tags/funding/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/tags/funding/</guid>
+      <guid>/tags/funding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive</title>
-      <link>http://www.pikkabird.co/tags/interactive/</link>
+      <link>/tags/interactive/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/tags/interactive/</guid>
+      <guid>/tags/interactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plots</title>
-      <link>http://www.pikkabird.co/tags/plots/</link>
+      <link>/tags/plots/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/tags/plots/</guid>
+      <guid>/tags/plots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://www.pikkabird.co/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Test</title>
-      <link>http://www.pikkabird.co/tags/r-test/</link>
+      <link>/tags/r-test/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/tags/r-test/</guid>
+      <guid>/tags/r-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syria</title>
-      <link>http://www.pikkabird.co/tags/syria/</link>
+      <link>/tags/syria/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/tags/syria/</guid>
+      <guid>/tags/syria/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pikkabird Data Solutions</title>
-    <link>http://www.pikkabird.co/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Pikkabird Data Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.pikkabird.co/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Playing around</title>
-      <link>http://www.pikkabird.co/post/playing-around/</link>
+      <link>/post/playing-around/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/post/playing-around/</guid>
+      <guid>/post/playing-around/</guid>
       <description>NMP data replication Taken data from a random table in NPM document in pdf format. Plotting in 2 different formats.
  First graph: Violin plots!  Plot 2: Piramid plot En nu gekanteld
 En dan hier de conclusie
@@ -26,20 +26,20 @@ En dan hier de conclusie
     
     <item>
       <title>Tweede post</title>
-      <link>http://www.pikkabird.co/post/tweede-post/</link>
+      <link>/post/tweede-post/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/post/tweede-post/</guid>
+      <guid>/post/tweede-post/</guid>
       <description>Random plotting to generate my second post on this site Comfort reached gay perhaps chamber his six detract besides add. Moonlight newspaper up he it enjoyment agreeable depending. Timed voice share led his widen noisy young. On weddings believed laughing although material do exercise of. Up attempt offered ye civilly so sitting to. She new course get living within elinor joy. She her rapturous suffering concealed.
 Ever man are put down his very.</description>
     </item>
     
     <item>
       <title>Embedding Interactive Widgets</title>
-      <link>http://www.pikkabird.co/post/embedding-interactive-widgets/</link>
+      <link>/post/embedding-interactive-widgets/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pikkabird.co/post/embedding-interactive-widgets/</guid>
+      <guid>/post/embedding-interactive-widgets/</guid>
       <description>Shiny Apps directly deployed. Below the shiny app that can be found on https://pbsolutions.shinyapps.io/Playground/ is embedded via knittr to work directly on this page.
 So does it work?
  So what else can be embedded Below an Iframe is embedded designed for display on Ghanaweb.com
