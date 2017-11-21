@@ -1,31 +1,23 @@
 +++
-title = "About"
-date = "2014-04-09"
+title = "About PikkaBird"
+date = "2017-11-23"
 sidemenu = "true"
-description = "About me and this site"
+description = "And about me and my site"
 +++
 
-Hugo is a static site engine written in Go.
+## Welcome to my webstie
+
+My name is Joost Donkers and I started this page to explore managing website site content directly from the R programming language. 
+
+The sites name is taken from the name of my consulting company Pikkabird Data Solutions,  which has served me for many years. 
 
 
-It makes use of a variety of open source projects including:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## Furthermore 
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+its always good to have a catchy *__soundtrack__* during your day.
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 Thanks for reading!
+

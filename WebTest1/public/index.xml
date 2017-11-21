@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pikkabird Data Solutions</title>
-    <link>/</link>
+    <link>http://www.pikkabird.co/</link>
     <description>Recent content on Pikkabird Data Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.pikkabird.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Playing around</title>
-      <link>/post/playing-around/</link>
+      <link>http://www.pikkabird.co/post/playing-around/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/playing-around/</guid>
+      <guid>http://www.pikkabird.co/post/playing-around/</guid>
       <description>NMP data replication Taken data from a random table in NPM document in pdf format. Plotting in 2 different formats.
  First graph: Violin plots!  Plot 2: Piramid plot En nu gekanteld
 En dan hier de conclusie
@@ -26,44 +26,34 @@ En dan hier de conclusie
     
     <item>
       <title>Tweede post</title>
-      <link>/post/tweede-post/</link>
+      <link>http://www.pikkabird.co/post/tweede-post/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/tweede-post/</guid>
+      <guid>http://www.pikkabird.co/post/tweede-post/</guid>
       <description>Random plotting to generate my second post on this site Comfort reached gay perhaps chamber his six detract besides add. Moonlight newspaper up he it enjoyment agreeable depending. Timed voice share led his widen noisy young. On weddings believed laughing although material do exercise of. Up attempt offered ye civilly so sitting to. She new course get living within elinor joy. She her rapturous suffering concealed.
 Ever man are put down his very.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Embedding Interactive Widgets</title>
+      <link>http://www.pikkabird.co/post/embedding-interactive-widgets/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>http://www.pikkabird.co/post/embedding-interactive-widgets/</guid>
+      <description>Shiny Apps directly deployed. Below the shiny app that can be found on https://pbsolutions.shinyapps.io/Playground/ is embedded via knittr to work directly on this page.
+So does it work?
+ So what else can be embedded Below an Iframe is embedded designed for display on Ghanaweb.com
+knitr::include_url(&amp;quot;http://tech.ghanaweb.com/fortuneCity/widget.11.php&amp;quot;)  And now the same code &amp;lt;iframe src=&amp;quot;http://tech.ghanaweb.com/fortuneCity/widget.11.php&amp;quot; id=&amp;quot;FortuneCity_widget&amp;quot; frameborder=&amp;quot;0&amp;quot; style=&amp;quot;float:left; height: 324px; width: 300px; padding: 0; margin-bottom: 5px; margin-top:5px;&amp;quot; scrolling=&amp;quot;no&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+but now via direct html on the site</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://www.pikkabird.co/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://www.pikkabird.co/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
     </item>
     
   </channel>

@@ -2,85 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pikkabird Data Solutions</title>
-    <link>/tags/</link>
+    <link>http://www.pikkabird.co/tags/</link>
     <description>Recent content in Tags on Pikkabird Data Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.pikkabird.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Funding</title>
+      <link>http://www.pikkabird.co/tags/funding/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>http://www.pikkabird.co/tags/funding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Interactive</title>
+      <link>http://www.pikkabird.co/tags/interactive/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/golang/</guid>
+      <guid>http://www.pikkabird.co/tags/interactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plots</title>
-      <link>/tags/plots/</link>
+      <link>http://www.pikkabird.co/tags/plots/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plots/</guid>
+      <guid>http://www.pikkabird.co/tags/plots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>http://www.pikkabird.co/tags/r/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>http://www.pikkabird.co/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Test</title>
-      <link>/tags/r-test/</link>
+      <link>http://www.pikkabird.co/tags/r-test/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-test/</guid>
+      <guid>http://www.pikkabird.co/tags/r-test/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Syria</title>
+      <link>http://www.pikkabird.co/tags/syria/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/themes/</guid>
+      <guid>http://www.pikkabird.co/tags/syria/</guid>
       <description></description>
     </item>
     

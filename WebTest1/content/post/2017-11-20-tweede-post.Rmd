@@ -40,7 +40,9 @@ gg <- ggplot(midwest, aes(x=area, y=poptotal)) +
 plot(gg)
 ```
 
-#Diverging bars
+---
+
+## Diverging bars
 Diverging Bars is a bar chart that can handle both negative and positive values.
 
 
@@ -72,7 +74,9 @@ ggplot(mtcars, aes(x=`car name`, y=mpg_z, label=mpg_z)) +
 ```
 
 
-#Clustering
+***
+
+## Clustering
 ```{r,  echo=FALSE, warning=FALSE}
 library(ggplot2)
 library(ggalt)

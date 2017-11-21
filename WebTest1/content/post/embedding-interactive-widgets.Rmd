@@ -1,0 +1,41 @@
+---
+title: Embedding Interactive Widgets
+author: Joost
+date: '2017-11-19'
+slug: embedding-interactive-widgets
+categories: []
+tags:
+  - interactive
+---
+# Shiny Apps directly deployed.
+
+Below the shiny app that can be found on <https://pbsolutions.shinyapps.io/Playground/> is embedded via knittr  to work directly on this page. 
+
+So does it _work_?
+
+```{r, echo=FALSE}
+knitr::include_app("https://pbsolutions.shinyapps.io/Playground/", height = "672px")
+```
+
+___
+
+## So what else can be embedded
+
+Below an Iframe is embedded designed for display on Ghanaweb.com
+
+
+```{r}
+knitr::include_url("http://tech.ghanaweb.com/fortuneCity/widget.11.php")
+```
+
+
+And now the same code 
+``` <iframe src="http://tech.ghanaweb.com/fortuneCity/widget.11.php" id="FortuneCity_widget" frameborder="0" style="float:left; height: 324px; width: 300px; padding: 0; margin-bottom: 5px; margin-top:5px;" scrolling="no"></iframe>
+```
+
+but now via direct html on the site
+
+<iframe src="http://tech.ghanaweb.com/fortuneCity/widget.11.php" id="FortuneCity_widget" frameborder="0" style="float:left; height: 324px; width: 300px; padding: 0; margin-bottom: 5px; margin-top:5px;" scrolling="no"></iframe>
+
+Do they both show
+

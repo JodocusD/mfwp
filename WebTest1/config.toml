@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://www.pikkabird.co/"
 languageCode = "en-us"
 title = "Pikkabird Data Solutions"
 theme = "blackburn"
@@ -52,6 +52,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  github = "JodocusD"
-  stackoverflow = "JodocusD"
+  # github = "JodocusD"
+  # stackoverflow = "JodocusD"
   linkedin = "joost-donkers-645b9b62"

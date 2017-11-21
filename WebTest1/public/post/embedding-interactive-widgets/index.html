@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.31" />
 
-  <title>Plots &middot; Pikkabird Data Solutions</title>
+  <title>Embedding Interactive Widgets &middot; Pikkabird Data Solutions</title>
 
   
   
@@ -36,8 +36,6 @@
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
   
-  
-  <link rel="alternate" type="application/rss+xml" title="Pikkabird Data Solutions" href="http://www.pikkabird.co/tags/plots/index.xml" />
   
 
   
@@ -102,10 +100,6 @@
   <div class="pure-menu social">
   <ul class="pure-menu-list">
 
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="http://www.pikkabird.co/tags/plots/index.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
-    </li>
     
 
     
@@ -205,20 +199,16 @@
 
 
 <div class="header">
-  <h1>Plots</h1>
+  <h1>Embedding Interactive Widgets</h1>
+  <h2></h2>
 </div>
-
 <div class="content">
-  
-    <article>
-  <header>
-    <h2><a href="http://www.pikkabird.co/post/tweede-post/">Tweede post</a></h2>
 
-    <div class="post-meta">
+  <div class="post-meta">
 
   <div>
     <i class="fa fa-calendar fa-fw"></i>
-    <time>20 Nov 2017</time>
+    <time>19 Nov 2017</time>
   </div>
 
   
@@ -231,9 +221,7 @@
   <div>
     <i class="fa fa-tags fa-fw"></i>
     
-      <a class="post-taxonomy-tag" href="http://www.pikkabird.co/tags/r">R</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://www.pikkabird.co/tags/plots">Plots</a>
+      <a class="post-taxonomy-tag" href="http://www.pikkabird.co/tags/interactive">interactive</a>
     
   </div>
   
@@ -241,21 +229,57 @@
 
 </div>
 
-  </header>
+  <div id="shiny-apps-directly-deployed." class="section level1">
+<h1>Shiny Apps directly deployed.</h1>
+<p>Below the shiny app that can be found on <a href="https://pbsolutions.shinyapps.io/Playground/" class="uri">https://pbsolutions.shinyapps.io/Playground/</a> is embedded via knittr to work directly on this page.</p>
+<p>So does it <em>work</em>?</p>
+<iframe src="https://pbsolutions.shinyapps.io/Playground/?showcase=0" width="672" height="672px">
+</iframe>
+<hr />
+<div id="so-what-else-can-be-embedded" class="section level2">
+<h2>So what else can be embedded</h2>
+<p>Below an Iframe is embedded designed for display on Ghanaweb.com</p>
+<pre class="r"><code>knitr::include_url(&quot;http://tech.ghanaweb.com/fortuneCity/widget.11.php&quot;)</code></pre>
+<iframe src="http://tech.ghanaweb.com/fortuneCity/widget.11.php" width="672" height="400px">
+</iframe>
+<p>And now the same code <code>&lt;iframe src=&quot;http://tech.ghanaweb.com/fortuneCity/widget.11.php&quot; id=&quot;FortuneCity_widget&quot; frameborder=&quot;0&quot; style=&quot;float:left; height: 324px; width: 300px; padding: 0; margin-bottom: 5px; margin-top:5px;&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</code></p>
+<p>but now via direct html on the site</p>
+<iframe src="http://tech.ghanaweb.com/fortuneCity/widget.11.php" id="FortuneCity_widget" frameborder="0" style="float:left; height: 324px; width: 300px; padding: 0; margin-bottom: 5px; margin-top:5px;" scrolling="no">
+</iframe>
+<p>Do they both show</p>
+</div>
+</div>
 
-  <p>
-  Random plotting to generate my second post on this site Comfort reached gay perhaps chamber his six detract besides add. Moonlight newspaper up he it enjoyment agreeable depending. Timed voice share led his widen noisy young. On weddings believed laughing although material do exercise of. Up attempt offered ye civilly so sitting to. She new course get living within elinor joy. She her rapturous suffering concealed.
-Ever man are put down his very.
-  </p>
 
   
-  <footer>
-    <a href="http://www.pikkabird.co/post/tweede-post/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="next">
+      <a href="http://www.pikkabird.co/post/tweede-post/">Tweede post</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+    <a href="http://www.pikkabird.co/post/tweede-post/"><i class="fa fa-chevron-right"></i></a>
+    
+  </div>
+</div>
+
+
 
   
+
 </div>
 
 </div>
@@ -269,3 +293,4 @@ Ever man are put down his very.
 
 </body>
 </html>
+

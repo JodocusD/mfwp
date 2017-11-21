@@ -3,10 +3,11 @@ title: Playing around
 author: Joost
 date: '2017-11-20'
 slug: playing-around
-categories:
-  - Funding Syria
+categories: []
 tags:
   - R test
+  - Funding 
+  - Syria
 ---
 
 ## NMP data replication

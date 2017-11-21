@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive on Pikkabird Data Solutions</title>
+    <link>http://www.pikkabird.co/tags/interactive/</link>
+    <description>Recent content in Interactive on Pikkabird Data Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.pikkabird.co/tags/interactive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embedding Interactive Widgets</title>
+      <link>http://www.pikkabird.co/post/embedding-interactive-widgets/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.pikkabird.co/post/embedding-interactive-widgets/</guid>
+      <description>Shiny Apps directly deployed. Below the shiny app that can be found on https://pbsolutions.shinyapps.io/Playground/ is embedded via knittr to work directly on this page.
+So does it work?
+ So what else can be embedded Below an Iframe is embedded designed for display on Ghanaweb.com
+knitr::include_url(&amp;quot;http://tech.ghanaweb.com/fortuneCity/widget.11.php&amp;quot;)  And now the same code &amp;lt;iframe src=&amp;quot;http://tech.ghanaweb.com/fortuneCity/widget.11.php&amp;quot; id=&amp;quot;FortuneCity_widget&amp;quot; frameborder=&amp;quot;0&amp;quot; style=&amp;quot;float:left; height: 324px; width: 300px; padding: 0; margin-bottom: 5px; margin-top:5px;&amp;quot; scrolling=&amp;quot;no&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+but now via direct html on the site</description>
+    </item>
+    
+  </channel>
+</rss>
